@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tiradentes.iml" filepath="$PROJECT_DIR$/.idea/modules/tiradentes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tiradentes_main.iml" filepath="$PROJECT_DIR$/.idea/modules/tiradentes_main.iml" group="tiradentes" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tiradentes_test.iml" filepath="$PROJECT_DIR$/.idea/modules/tiradentes_test.iml" group="tiradentes" />
+    </modules>
+  </component>
+</project>
